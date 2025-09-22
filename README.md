@@ -84,10 +84,10 @@ Clone this repo:
 git clone https://github.com/traanvg/airbnb-nyc-analysis.git
 cd airbnb-nyc-analysis
 
-## Install dependencies:
+Install dependencies:
 pip install -r requirements.txt
 
-## Open the notebook in Jupyter or VS Code:
+Open the notebook in Jupyter or VS Code:
 jupyter notebook Airbnb_NYC_Analysis.ipynb
 
 Credits
