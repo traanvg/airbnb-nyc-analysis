@@ -77,6 +77,8 @@ The analysis includes **data cleaning, exploratory data analysis (EDA), visualiz
 
 📎 Credits
 
-Dataset: Airbnb NYC 2019 on Kaggle
+
+- **Dataset:** [Airbnb NYC 2019 on Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+
 
 Author: Tran Vuong
