@@ -90,7 +90,7 @@ pip install -r requirements.txt
 ## Open the notebook in Jupyter or VS Code:
 jupyter notebook Airbnb_NYC_Analysis.ipynb
 
-**Credits**
+## **Credits**
 
 Dataset: Airbnb NYC 2019 on Kaggle
 
