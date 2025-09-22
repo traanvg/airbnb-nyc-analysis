@@ -75,22 +75,7 @@ The analysis includes **data cleaning, exploratory data analysis (EDA), visualiz
 - **Entire homes/apartments (~60%)** dominate listings → guests prefer privacy  
 - **Luxury clusters** are concentrated in Manhattan, while Bronx/Queens cater to budget travelers  
 
----
-
-## 🚀 How to Run Locally  
-
-Clone this repo:
-```bash
-git clone https://github.com/traanvg/airbnb-nyc-analysis.git
-cd airbnb-nyc-analysis
-
-Install dependencies:
-pip install -r requirements.txt
-
-Open the notebook in Jupyter or VS Code:
-jupyter notebook Airbnb_NYC_Analysis.ipynb
-
-Credits
+📎 Credits
 
 Dataset: Airbnb NYC 2019 on Kaggle
 
