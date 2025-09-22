@@ -73,7 +73,28 @@ The analysis includes **data cleaning, exploratory data analysis (EDA), visualiz
 - **80% of listings** are in Manhattan & Brooklyn → highly concentrated market  
 - **Manhattan’s average price** is ~3× higher than Queens → premium zone  
 - **Entire homes/apartments (~60%)** dominate listings → guests prefer privacy  
-- **Luxury clusters** are concentrated in Manhattan, while Bronx/Queens cater to budget travelers  
+- **Luxury clusters** are concentrated in Manhattan, while Bronx/Queens cater to budget travelers
+
+
+## 🚀 How to Run Locally  
+
+Clone this repo:
+```bash
+git clone https://github.com/traanvg/airbnb-nyc-analysis.git
+cd airbnb-nyc-analysis
+```
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+Open the notebook in Jupyter or VS Code:
+```bash
+jupyter notebook Airbnb_NYC_Analysis.ipynb
+```
+
+Run all cells to reproduce the analysis.
 
 📎 Credits
 
