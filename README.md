@@ -16,7 +16,7 @@ The analysis includes **data cleaning, exploratory data analysis (EDA), visualiz
 
 ## 📂 Dataset  
 - **Source:** [Airbnb NYC 2019 on Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)  
-- **Original size:** 48,884 listings × 16 columns  
+- **Original size:** 48,895 listings × 16 columns  
 - **Cleaned dataset:** 48,868 listings × 13 columns  
 - **Coverage:** All 5 NYC boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island)  
 
